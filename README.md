@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Lohmal. <img src="https://github.com/Lohmal/Lohmal/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/Lohmal/Lohmal/blob/main/gif4.gif" width="%30"/>
+<img align="right" alt="GIF" src="https://github.com/Lohmal/Lohmal/blob/main/gif4.gif" width="30%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
