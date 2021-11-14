@@ -20,21 +20,7 @@
 
 <br>
 
-<h3 > 🚀  Github Stats  🚀</h3>
 
- <a href="https://github.com/Lohmal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lohmal&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohmal&layout=compact&text_color=daf7dc&bg_color=151515" />
-</a>
-
-<br>
-
-<h3> 📖  Github Repos  📖</h3>
-
-</br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=C_Sharp_Blog_MVC&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/C_Sharp_Blog_MVC)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=Currency_Converter&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/Currency_Converter)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
