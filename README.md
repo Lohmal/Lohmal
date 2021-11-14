@@ -32,7 +32,7 @@
 <h3> 📖  Github Repos  📖</h3>
 </br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=MVC_Blog_Site&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/MVC_Blog_Site)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=C_Sharp_Blog_MVC&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/C_Sharp_Blog_MVC)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=Currency_Converter&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/Currency_Converter)
 
 <h3> 🤝🏻 Connect with Me </h3>
