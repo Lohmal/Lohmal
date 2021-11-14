@@ -40,4 +40,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/volkankivanc)](https://www.linkedin.com/in/volkankivanc)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/volkankivanc)](https://www.instagram.com/volkankivanc)
 [![Discord Badge](https://img.shields.io/badge/-Discord-6959cd?style=flat-square&labelColor=6959cd&logo=discord&logoColor=white&link=https://discord.gg/#7398)](https://discord.gg/#7398)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:volkankivanc12@gmail.com)](link=mailto:volkankivanc12@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:volkankivanc12@gmail.com)](mailto:volkankivanc12@gmail.com)
