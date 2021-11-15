@@ -11,6 +11,7 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+<p align="center"><img align="right"alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=flat-square"/> </p>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C# | Python   
@@ -20,11 +21,11 @@
 
 <br>
 
-<h3 > 🚀  Github Stats  🚀</h3>
+<h3 > 🚀  Github Stats  🚀</h3> <p > 
 
  <a href="https://github.com/Lohmal">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lohmal&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohmal&layout=compact&text_color=daf7dc&bg_color=151515" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohmal&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40" />
 </a>
 
 <br>
