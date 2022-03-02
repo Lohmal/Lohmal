@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Lohmal. <img src="https://github.com/Lohmal/Lohmal/blob/main/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Volkan. <img src="https://github.com/Lohmal/Lohmal/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Lohmal/Lohmal/blob/main/gif4.gif" width="30%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -6,15 +6,16 @@
 - 📘 &nbsp; My name is Volkan.
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studying Computer programming.
-- 💼 &nbsp; I worked as a web developer as an intern(2 months).
 - 🌱 &nbsp; Coding and Research enthusiast.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 
-<p align="center"><img align="right"alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=flat-square"/> </p>
+<br/>
+<br/>
+<br/>
+<p ><img align="right"alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=flat-square"/> </p>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | C# | Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MVC | Pandas | Pyplot | Keras
+- 💻 &nbsp; C | C++ | C# | Python | Php | Pandas | Pyplot | Keras
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MVC 
 - 🛢 &nbsp; MsSQL | Xampp
 - 🔧 &nbsp; Visual Studio | Dev-C++ | Visual Studio code | Jupyter
 
