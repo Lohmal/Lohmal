@@ -9,7 +9,6 @@
 - 💼 &nbsp; I worked as a web developer as an intern(2 months).
 - 🌱 &nbsp; Coding and Research enthusiast.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <p align="center"><img align="right"alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=flat-square"/> </p>
 <h3>🛠 Tech Stack</h3>
