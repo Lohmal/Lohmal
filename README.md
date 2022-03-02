@@ -14,9 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C# | Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MVC
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MVC | Pandas | Pyplot | Keras
 - 🛢 &nbsp; MsSQL | Xampp
-- 🔧 &nbsp; Visual Studio | Dev-C++ | Visual Studio code
+- 🔧 &nbsp; Visual Studio | Dev-C++ | Visual Studio code | Jupyter
 
 <br>
 
@@ -28,13 +28,6 @@
 </a>
 
 <br>
-
-<h3> 📖  Github Repos  📖</h3>
-
-</br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lohmal&repo=C_Sharp_Blog_MVC&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/C_Sharp_Blog_MVC)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lohmal&repo=Currency_Converter&show_owner=true&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Lohmal/Currency_Converter)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
