@@ -8,21 +8,9 @@
 </a>
 <br>
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 📘 &nbsp; My name is Volkan.
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-- 🎓 &nbsp; Studying Computer programming.
-- 🌱 &nbsp; Coding and Research enthusiast.
-<hr/>
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++ | C# | Python | Php | Pandas | Pyplot | Keras
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MVC 
-- 🛢 &nbsp; MsSQL | Xampp
-- 🔧 &nbsp; Visual Studio | Dev-C++ | Visual Studio code | Jupyter
-<hr/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
