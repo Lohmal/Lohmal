@@ -31,22 +31,6 @@
 
 ---
 
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <a href="https://github.com/Lohmal">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lohmal&show_icons=true&theme=midnight-purple&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohmal&layout=compact&theme=midnight-purple" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
 <p align="center">
   ⚡ <em>"Building ideas that connect innovation with real-world impact."</em>
 </p>
