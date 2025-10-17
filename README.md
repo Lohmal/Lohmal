@@ -1,21 +1,52 @@
-<h2> Hey there! I'm Volkan. <img src="https://github.com/Lohmal/Lohmal/blob/main/Hi.gif" width="25"></h2>
+<h2 align="center">Hey, I'm Volkan 👋</h2>
+<p align="center">
+  <em>Full-Stack Developer • IoT & Embedded Systems Enthusiast • AI Explorer</em>
+</p>
 
-<h3 > 🚀  Github Stats  🚀</h3> <p > 
+<p align="center">
+  <a href="https://www.linkedin.com/in/volkankivanc">
+    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/volkankivanc">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:volkankivanc12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
- <a href="https://github.com/Lohmal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lohmal&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohmal&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40" />
-</a>
-<br>
+---
+
+### 🧠 About Me  
+💻 Passionate about building **scalable apps**, **IoT systems**, and **AI-driven tools**.  
+🚀 Experienced with **Next.js, Express.js, Firebase, MongoDB, and OpenCV**.  
+🎯 Always learning and optimizing — from web stacks to embedded systems.  
+
+---
+
+### ⚙️ Tech Toolbox  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,python,cs,mongodb,sqlite,git,linux,vscode,docker" />
+</p>
+
+---
 
 
+### 📊 GitHub Stats  
 
+<p align="center">
+  <a href="https://github.com/Lohmal">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lohmal&show_icons=true&theme=midnight-purple&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohmal&layout=compact&theme=midnight-purple" />
+  </a>
+</p>
 
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=for-the-badge&color=blueviolet"/>
+</p>
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/volkankivanc)](https://www.linkedin.com/in/volkankivanc)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/volkankivanc)](https://www.instagram.com/volkankivanc)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:volkankivanc12@gmail.com)](mailto:volkankivanc12@gmail.com)
-
-<p ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=lohmal&style=flat-square"/> </p>
+<p align="center">
+  ⚡ <em>"Building ideas that connect innovation with real-world impact."</em>
+</p>
