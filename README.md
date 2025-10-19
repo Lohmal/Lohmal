@@ -3,7 +3,7 @@
   <em>Full-Stack Developer • IoT & Embedded Systems Enthusiast • AI Explorer</em>
 </p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 24px;">
   <a href="https://www.linkedin.com/in/volkankivanc">
     <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
